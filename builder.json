@@ -1,0 +1,16 @@
+{
+  "project": "Moe_dobro",
+  "platform": "ios",
+  "github": {
+    "owner": "Minlibay",
+    "repo": "Moe_dobro"
+  },
+  "ios": {
+    "path": "Mobile"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
